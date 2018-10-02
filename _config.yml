@@ -1,7 +1,7 @@
 # site settings
 title: Log of Projects
 subtitle: by 水
-email: youremailaddress@gmail.com
+email: 
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/website" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
