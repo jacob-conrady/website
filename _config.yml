@@ -3,7 +3,7 @@ title: test
 subtitle: test
 email: youremailaddress@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: " https://mizumisuzu.github.io/website/ " # the subpath of your site, e.g. /blog
+baseurl: "https://mizumisuzu.github.io/website/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
